@@ -8,3 +8,6 @@ echo "Hello value of a is $a and value of b is $b"
 echo "This is sample change"
 echo "bye"
 echo "hi"
+
+echo "We are changing script1"
+echo "We have applied this changes in main branch
