@@ -10,5 +10,5 @@ echo "This example is of branching strategy"
 echo "Hello Batch-16, We are learning Git/Github"
 echo "Good Evening"
 echo "I am doing Git Conflict"
-
-
+echo "we are solving conflict"
+echo "Hello Batch-16, We are learning Git/Github"
